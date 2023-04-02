@@ -1,0 +1,9 @@
+1. npx create-react-app my-app
+<!-- https://tailwindcss.com/docs/installation -->
+2. npm install -D tailwindcss  // D: Development
+3. npx tailwindcss init
+4. npm install react-icons --save
+5. npm install lottie-react
+6. npm install react-router-dom
+
+https://lottiefiles.com/search?q=batman&category=animations
